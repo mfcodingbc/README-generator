@@ -25,6 +25,11 @@ The README file was designed based on this [guide](https://coding-boot-camp.gith
 
 This project fulfills the 'Module 9: Node.js.' assignment for MSU's Coding Bootcamp.
 
+## Technologies Used
+
+Node.js
+Inquirer
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
